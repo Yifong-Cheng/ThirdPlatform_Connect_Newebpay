@@ -1,0 +1,5 @@
+更改完環境後->記得 npm run dev
+
+記得引用 use
+
+app/name.php 記得protected $fillable=['name','id','...'];

@@ -1,0 +1,7 @@
+資料表(裡面的名稱要建好->最後記得php artisan migrate)
+database/migrations/xxxxx_create_names_table
+控制器
+app/Http/Controllers/NameController.php
+
+模板
+resources/views/names/name(create).blade.php
